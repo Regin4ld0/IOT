@@ -1,0 +1,31 @@
+# semaforo inteligente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![titulo da imagem](arquivo.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
